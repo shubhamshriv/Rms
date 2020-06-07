@@ -1,0 +1,2 @@
+<a href="<?php echo base_url($url); ?>" style="
+    background-color: #2b8e51;" class="btn btn-info pull-left btn-sm" data-toggle="tooltip" title="View"> View<i class="fa fa-pencil-square-o" aria-hidden="true"></i></a>
